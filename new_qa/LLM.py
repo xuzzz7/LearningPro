@@ -22,6 +22,7 @@ class Kimi():
             temperature=0.3,
         )
         return completion.choices[0].message.content
-
-
+class Test():
+    def __init__(self) -> None:
+        pass
 
