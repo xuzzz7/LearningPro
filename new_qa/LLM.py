@@ -1,6 +1,7 @@
 from openai import OpenAI
 import numpy
 import time
+import torch
 
 class Kimi():
     def __init__(self):
