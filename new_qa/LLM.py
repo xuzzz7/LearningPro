@@ -1,4 +1,6 @@
 from openai import OpenAI
+import numpy
+import time
 
 class Kimi():
     def __init__(self):
