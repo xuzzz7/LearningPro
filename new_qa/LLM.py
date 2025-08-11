@@ -26,3 +26,7 @@ class Test():
     def __init__(self) -> None:
         pass
 
+
+class LLM1():
+    def __init__(self) -> None:
+        pass
